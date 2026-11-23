@@ -1,5 +1,4 @@
 # 🚀 Auto Forward Messages - Telegram Bot
-
 <div align="center">
 
 ![Auto Forward Messages](https://img.shields.io/badge/Auto%20Forward-Messages-blue?style=for-the-badge&logo=telegram)
